@@ -27,6 +27,8 @@ The notebook offers per User :
 
 You can consult the code source of both notebooks above.
 
+You can also see the complete result at https://app.trustii.io 
+
 # References : 
 Shastri, S., Kansal, I., Kumar, S. et al. CheXImageNet: a novel architecture for accurate classification of Covid-19 with chest x-ray digital images using deep convolutional neural networks. Health Technol. 12, 193204 (2022). https://doi.org/10.1007/s12553-021-00630-x
 Kumar S, Shastri S, Mahajan S, et al. LiteCovidNet: A lightweight deep neural network model for detection of COVID-19 using X-ray images. Int J Imaging Syst Technol. 2022;117. DOI: https://doi.org/10.1002/ima.22770
